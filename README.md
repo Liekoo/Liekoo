@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Liekoo
+- 👋 Hi, I’m @Lyco
 - 👀 I’m interested in Web Dev/CyberSec/Android Development
 - 🌱 I’m currently learning HTML/CSS/JS/C
 - 📫 For inquiries: cristianervini.reyes@gmail.com
