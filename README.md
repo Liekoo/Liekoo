@@ -1,6 +1,6 @@
 # Hi there, I'm Liekoo
 
-## I am a begginer Android Developer from PH
+## I am a beginner Android Developer from PH
 
 - Currently I'm working on device tree for Xiaomi Redmi Note 13 4G/NFC
  - B.Sc. Information Technology student
