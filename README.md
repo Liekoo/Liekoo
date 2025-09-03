@@ -4,6 +4,7 @@
 
 - Currently I'm working on device tree for Xiaomi Redmi Note 13 4G/NFC
 - B.Sc. Information Technology student
+- just normal student in the morning, kulang sa lambing sa gabi
 
 # 📊 GitHub Stats:
  
