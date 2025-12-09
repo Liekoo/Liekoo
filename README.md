@@ -10,8 +10,7 @@
  
 <!--[![Liekoo  github stats](https://github-readme-stats.vercel.app/api?username=Liekoo&theme=dark&hide_border=false)](https://github.com/Liekoo) -->
 
-![](https://github-readme-stats.vercel.app/api?username=Liekoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)[](https://github-readme-streak-stats.herokuapp.com/?user=Liekoo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Liekoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Liekoo&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 <!---
  Pagod nako pls lang
