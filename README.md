@@ -1,6 +1,6 @@
 # Hi, I'm Liekoo
 
-## I'm a newbie Android Developer from Philippines
+## I'm an Android Developer from Philippines
 
 Currently maintaining the device tree and other resources for Xiaomi Redmi Note 13 4G/NFC
 <br>
