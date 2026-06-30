@@ -1,11 +1,18 @@
 # Hi, I'm Liekoo
-
-## I'm an Android Developer from Philippines
-
+## I'm an Android Developer from the Philippines
 Currently maintaining the device tree and other resources for Xiaomi Redmi Note 13 4G/NFC
 <br>
 B.Sc. Information Technology student
 <br>
+
+🔗 [Portfolio](https://liekoo.github.io/portfolio/) &nbsp;·&nbsp; [GitLab](https://gitlab.com/Liekoo) &nbsp;&nbsp; <br>
+📧 Email: cristianervini.reyes@gmail.com
+
+
+### Featured Projects
+- 🔋 [**packages_apps_FastCharge**](https://github.com/Liekoo/packages_apps_FastCharge) — Kernel level charging mode control system app for Redmi Note 13 4G/NFC
+- 📱 [**android_device_xiaomi_sapphire**](https://github.com/Liekoo/android_device_xiaomi_sapphire) — Device tree for Redmi Note 13 4G/NFC, maintained for Evolution X & LineageOS
+- 💧 [**Automatic_Water_Delivery_System(AWD)**](https://github.com/Liekoo/AWD-System) — Water refilling station system with PayMongo GCash/QR Ph payment integration & With Top-up wallet system and Realtime GPS-based delivery
 
 ### Programming Language I'm Familiar with:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
@@ -17,7 +24,6 @@ B.Sc. Information Technology student
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=0078d7)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![Bash](https://img.shields.io/badge/bash-yellow?style=for-the-badge&labelColor=black&logo=gnubash&logoColor=white)
-
 
 <!---
  Pagod nako pls lang
